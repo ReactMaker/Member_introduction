@@ -37,3 +37,6 @@
 [0519/203159.596:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
 [0519/203159.599:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: 管道已結束。 (0x6D)
 [0519/203159.600:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
+[0520/153135.203:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
+[0520/153135.205:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: 管道已結束。 (0x6D)
+[0520/153135.205:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
