@@ -32,8 +32,8 @@ const members = [
     title: 'PM',
     photo: require('static/images/giant.jpg'),
     intro: [
-      'Expertise: php, MySQL, C++.',
-      '因為python開始學會寫程式，接觸前端一年，目前在使用React.js + Redux。'
+      '在團隊中擔任聯絡窗口，目前是高應大碩生，由於對前端開發有興趣，因此就跟大大',
+      '們一起組成讀書會，專注於學習ReactJs。'
     ],
     gitLink: 'https://github.com/TKDchampion',
   },
