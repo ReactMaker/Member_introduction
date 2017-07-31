@@ -11,6 +11,7 @@ export default class Footer extends Component {
         <ul className="contact">
           <li className="fa-github"><a href="https://github.com/ReactMaker">GitHub</a></li>
           <li className="fa-facebook"><a href="https://www.facebook.com/ReactMaker/">Facebook</a></li>
+          <li className="fa-youtube"><a href="https://www.youtube.com/channel/UCKlc6u6LtTRUHjR4bqw5JeQ">YouTube</a></li>
         </ul>
         <ul className="copyright">
           <li>&copy; ReactMaker. All rights reserved.</li>
